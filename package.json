@@ -1,0 +1,24 @@
+{
+  "name": "reactjs-fundamentals",
+  "version": "1.0.0",
+  "description": "Project work from https://www.safaribooksonline.com/library/view/reactjs-fundamentals/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel bundle.js -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeroedin-neal/reactjs-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeroedin-neal/reactjs-fundamentals/issues"
+  },
+  "homepage": "https://github.com/zeroedin-neal/reactjs-fundamentals#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}
